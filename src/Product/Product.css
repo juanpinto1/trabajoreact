@@ -1,0 +1,28 @@
+.dogs {
+    display: flex;
+    flex-direction: row;
+}
+.image-card {
+    width: 200px;
+    height: 300px;
+}
+.product-card {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 1px;
+    box-sizing: border-box;
+    margin: 5px;
+    width: 550px;
+    padding: 0%;
+    justify-content: center;
+}
+.card-body {
+    width: 200px;
+}
+.btn{
+    background-color: brown;
+    color: white;
+}
+
+
